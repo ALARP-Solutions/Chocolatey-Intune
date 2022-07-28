@@ -49,8 +49,8 @@ Still having trouble or think better detail could be provided? Please [raise a n
       <td width="auto"><b>Status</b></td>
   </tr>
   <tr>
-    <td><a href="1Password/Readme.md"><img src="1Password/Logo.png" alt="Logo" width="80" height="80"></a></td>
-    <td><a href="1Password/Readme.md">1Password</a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/Readme.md"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/Readme.md">1Password</a></td>
     <td></td>
   </tr>
 </table>
