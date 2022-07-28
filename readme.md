@@ -13,8 +13,6 @@
   [![Issues][issues-shield]][issues-url]
   <br />
   
-  As a small business, we needed a way to deploy apps quickly whislt maintaining a historical record of the method. To do so, Win32Apps was established.
-  
   [Report Bug](https://github.com/ALARP-Solutions/Chocolatey-Intune/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
   ·
   [Request Feature](https://github.com/ALARP-Solutions/Chocolatey-Intune/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
@@ -24,7 +22,7 @@
   [![GitHub issues by-label](https://img.shields.io/github/issues/ALARP-Solutions/Chocolatey-Intune/enhancement?color=aqua&label=Enhancements&style=flat-square)](https://github.com/ALARP-Solutions/Chocolatey-Intune/labels/enhancement)
   [![GitHub issues by-label](https://img.shields.io/github/issues/ALARP-Solutions/Chocolatey-Intune/good%2520first%2520issue?color=purple&label=Good%20First%20Issue&style=flat-square)](https://github.com/ALARP-Solutions/Chocolatey-Intune/labels/good%20first%20issue)
   [![GitHub issues by-label](https://img.shields.io/github/issues/ALARP-Solutions/Chocolatey-Intune/Help%20Wanted?color=forestgreen&label=Help%20Wanted&style=flat-square)](https://github.com/ALARP-Solutions/Chocolatey-Intune/labels/help%20wanted)
-  [![GitHub issues by-label](https://img.shields.io/github/issues/ALARP-Solutions/Chocolatey-Intune/security?color=black&label=Security&style=flat-square)](https://github.com/ALARP-Solutions/Win32Apps/labels/security)
+  [![GitHub issues by-label](https://img.shields.io/github/issues/ALARP-Solutions/Chocolatey-Intune/security?color=black&label=Security&style=flat-square)](https://github.com/ALARP-Solutions/Chocolatey-Intune/labels/security)
   
 </div>
 
@@ -32,7 +30,7 @@
 
 Instructions for use and any necessary prerequisities are listed within individual repositories.
 
-Still having trouble or think better detail could be provided? Please [raise a new feature request](https://github.com/ALARP-Solutions/Chocolatey-Intune/issues/new?assignees=&labels=documentation&template=feature_request.md&title=).
+Still having trouble or think more details could be provided? Please [raise a new feature request](https://github.com/ALARP-Solutions/Chocolatey-Intune/issues/new?assignees=&labels=documentation&template=feature_request.md&title=).
 
 ## Deploy Ready Apps
 <div align="center">
@@ -49,8 +47,18 @@ Still having trouble or think better detail could be provided? Please [raise a n
       <td width="auto"><b>Status</b></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/Readme.md"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
-    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/Readme.md">1Password</a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/1Password"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/1Password">1Password</a></td>
+    <td>![under-development]</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Adobe%20Reader%20DC"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Adobe%20Reader%20DC/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Adobe%20Reader%20DC">Adobe Reader DC</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Chocolatey/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey">Chocolatey</a></td>
     <td></td>
   </tr>
 </table>
@@ -61,8 +69,8 @@ Distributed under the MIT License. See [`LICENSE.md`](https://github.com/ALARP-S
 
 ## Acknowledgments
 
-- Project icon designed by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/free-icons/programming)
-- [Default Email Signature Project](https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature) icon designed by [srip](https://www.flaticon.com/authors/srip) from [Flaticon](https://www.flaticon.com/free-icons/signature)
+- App Icons were sourced from [Chocolatey](https://chocolatey.org/)
+- Project icon designed by [smalllikeart](https://www.flaticon.com/authors/smalllikeart) from [Flaticon](https://www.flaticon.com/)
 
 </br>
 <p align="center">(<a href="#top">back to top</a>)</p>
@@ -79,3 +87,4 @@ Distributed under the MIT License. See [`LICENSE.md`](https://github.com/ALARP-S
 [license-shield]: https://img.shields.io/github/license/ALARP-Solutions/Chocolatey-Intune.svg?style=for-the-badge
 [license-url]: https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/LICENSE.txt
 [size-shield]: https://img.shields.io/github/repo-size/alarp-solutions/Chocolatey-Intune
+[under-development]: https://img.shields.io/badge/-Under%20Development-orange
