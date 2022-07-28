@@ -1,4 +1,12 @@
 choco feature enable --name="'useEnhancedExitCodes'" -y
 $PackageName = "citrix-workspace"
-choco list -e $PackageName --local-only
+choco list -e $PackageName -l
+
+if (-not $LastExitCode -eq 0) {
+    if (Test-Path "C:\Program Files (x86)\Citrix\ICA Client\SelfServicePlugin\SelfService.exe") {   
+        choco upgrade $PackageName -y
+        exit 0
+    }
+}
+
 exit $LastExitCode

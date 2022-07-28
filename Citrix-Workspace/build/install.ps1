@@ -1,9 +1,7 @@
 $localprograms = choco list --localonly
-if ($localprograms -like "*citrix-workspace*")
-{
+if ($localprograms -like "*citrix-workspace*") {
     choco upgrade citrix-workspace -y
 }
-Else
-{
+Else {
     choco install citrix-workspace -y
 }

@@ -38,7 +38,7 @@ Still having trouble or think more details could be provided? Please [raise a ne
   <table width="100%">
     <tr>
       <td width="100px"><b>Icon</b></td>
-      <td width="250px"><b>App</b></td>
+      <td width="200px"><b>App</b></td>
       <td width="auto"><b>Status</b></td>
     </tr>
     <tr>
