@@ -5,9 +5,7 @@
   <h1>Chocolatey Intune - Citrix Workspace</h1>
 </div>
 
-## Configuring Citrix Workspace
-
-### App Information
+## App Information
 | Field | Data |
 | --- | --- |
 | Name | Citrix Workspace |
@@ -19,7 +17,7 @@
 | Privacy URL | https://www.citrix.com/en-au/about/legal/ |
 | Logo | [logo.png](/citrix-workspace/logo.png) |
 
-### Program
+## Program
 
 | Field | Data |
 | --- | --- |
@@ -27,7 +25,7 @@
 | Uninstall Command | powershell.exe -executionpolicy bypass .\uninstall.ps1 |
 | Install Behaviour | System |
 
-### Requirements
+## Requirements
 | Field | Data |
 | --- | --- |
 | Operating system architecture | x64 |
@@ -39,7 +37,7 @@
 | Minimum CPU speed required (MHz) | _ |
 | Additional requirement rules | _ |
 
-### Detection Rules
+## Detection Rules
 | Field | Data |
 | --- | --- |
 | Rules Format | Use a custom detection script |
@@ -48,8 +46,8 @@
 | Enforce script signature check and run script silently | No |
 
 
-### Dependencies
-No dependencies.
+## Dependencies
+Add _Chocolatey_ as a dependency.
 
-### Supersedence
+## Supersedence
 Maybe set to supersede previous versions at you leisure.
