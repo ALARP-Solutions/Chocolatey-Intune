@@ -37,14 +37,14 @@ Still having trouble or think more details could be provided? Please [raise a ne
 
 ![warning-shield]
 
-</div>
+
 
 
 <table width="100%">
   <tr>
-      <td width="100px"><b>Icon</b></td>
-      <td width="15%"><b>App</b></td>
-      <td width="auto"><b>Status</b></td>
+    <td width="100px"><b>Icon</b></td>
+    <td width="15%"><b>App</b></td>
+    <td width="auto"><b>Status</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/1Password"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
@@ -54,14 +54,16 @@ Still having trouble or think more details could be provided? Please [raise a ne
   <tr>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Adobe%20Reader%20DC"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Adobe%20Reader%20DC/logo.png" alt="Logo" width="80" height="80"></a></td>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Adobe%20Reader%20DC">Adobe Reader DC</a></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Chocolatey/logo.png" alt="Logo" width="80" height="80"></a></td>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey">Chocolatey</a></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
   </tr>
 </table>
+
+</div>
 
 ## Licence
 
