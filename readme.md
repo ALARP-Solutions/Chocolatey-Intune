@@ -41,7 +41,7 @@ Still having trouble or think more details could be provided? Please [raise a ne
       <td width="auto"><b>Status</b></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/1Password"><img src="/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/1Password/README.md"><img src="/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/1Password">1Password</a></td>
       <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
