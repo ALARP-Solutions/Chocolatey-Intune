@@ -37,13 +37,10 @@ Still having trouble or think more details could be provided? Please [raise a ne
 
 ![warning-shield]
 
-
-
-
 <table width="100%">
   <tr>
     <td width="100px"><b>Icon</b></td>
-    <td width="15%"><b>App</b></td>
+    <td width="auto"><b>App</b></td>
     <td width="auto"><b>Status</b></td>
   </tr>
   <tr>
@@ -59,6 +56,31 @@ Still having trouble or think more details could be provided? Please [raise a ne
   <tr>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Chocolatey/logo.png" alt="Logo" width="80" height="80"></a></td>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey">Chocolatey</a></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Citrix-Workspace"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Citrix-Workspace/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Citrix-Workspace">Citrix Workspace</a></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/git"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/git/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/git">git</a></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Obsidian"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Obsidian/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Obsidian">Obsidian</a></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/VSCode"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/VSCode">VSCode</a></td>
+    <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Zoom"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Zoom/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Zoom">Zoom</a></td>
     <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
   </tr>
 </table>
