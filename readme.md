@@ -28,11 +28,12 @@
 
 ## Getting Started
 
-Instructions for use and any necessary prerequisities are listed within individual repositories.
+Instructions for use and any necessary prerequisities are listed within individual app folder.
 
 Still having trouble or think more details could be provided? Please [raise a new feature request](https://github.com/ALARP-Solutions/Chocolatey-Intune/issues/new?assignees=&labels=documentation&template=feature_request.md&title=).
 
 ## Deploy Ready Apps
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -42,42 +43,42 @@ Still having trouble or think more details could be provided? Please [raise a ne
     </tr>
     <tr>
       <td><a href="/1Password/README.md"><img src="/1Password/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/1Password">1Password</a></td>
+      <td><a href="/1Password/README.md">1Password</a></td>
       <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Adobe%20Reader%20DC"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Adobe%20Reader%20DC/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Adobe%20Reader%20DC">Adobe Reader DC</a></td>
+      <td><a href="/Adobe%20Reader%20DC/README.md"><img src="/Adobe%20Reader%20DC/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/Adobe%20Reader%20DC/README.md">Adobe Reader DC</a></td>
       <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Chocolatey/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Chocolatey">Chocolatey</a></td>
+      <td><a href="/Chocolatey/README.md"><img src="/Chocolatey/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/Chocolatey/README.md">Chocolatey</a></td>
       <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Citrix-Workspace"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Citrix-Workspace/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Citrix-Workspace">Citrix Workspace</a></td>
+      <td><a href="/Citrix-Workspace/README.md"><img src="/Citrix-Workspace/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/Citrix-Workspace/README.md">Citrix Workspace</a></td>
       <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Git"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Git/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/git">git</a></td>
+      <td><a href="/Git/README.md"><img src="/Git/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/git/README.md">git</a></td>
       <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Obsidian"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Obsidian/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Obsidian">Obsidian</a></td>
+      <td><a href="/Obsidian/README.md"><img src="/Obsidian/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/Obsidian/README.md">Obsidian</a></td>
       <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/VSCode"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/VSCode">VSCode</a></td>
+      <td><a href="/VSCode/README.md"><img src="/VSCode/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/VSCode/README.md">VSCode</a></td>
       <td><img src="https://img.shields.io/badge/-Working-green"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Zoom"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Zoom/logo.png" alt="Logo" width="80" height="80"></a></td>
-      <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Zoom">Zoom</a></td>
+      <td><a href="/Zoom/README.md"><img src="/Zoom/logo.png" alt="Logo" width="80" height="80"></a></td>
+      <td><a href="/Zoom/README.md">Zoom</a></td>
       <td><img src="https://img.shields.io/badge/-Working-green"></td>
     </tr>
   </table>
