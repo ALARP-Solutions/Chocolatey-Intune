@@ -59,7 +59,7 @@ Still having trouble or think more details could be provided? Please [raise a ne
     <tr>
       <td><a href="/Citrix-Workspace/README.md"><img src="/Citrix-Workspace/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="/Citrix-Workspace/README.md">Citrix Workspace</a></td>
-      <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+      <td><img src="https://img.shields.io/badge/-Working-green"></td>
     </tr>
     <tr>
       <td><a href="/Git/README.md"><img src="/Git/logo.png" alt="Logo" width="80" height="80"></a></td>
