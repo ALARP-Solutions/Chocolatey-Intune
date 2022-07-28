@@ -1,3 +1,6 @@
+[detect]: https://img.shields.io/github/contributors/ALARP-Solutions/Chocolatey-Intune.svg?style=for-the-badge
+[logo]: https://github.com/ALARP-Solutions/Chocolatey-Intune/graphs/contributors
+
 <div align="center">
   <a href="https://github.com/ALARP-Solutions/Chocolatey-Intune">
     <img src="VSCode/logo.png" alt="Logo" width="80" height="80">
