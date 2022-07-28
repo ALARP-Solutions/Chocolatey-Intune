@@ -1,11 +1,11 @@
 <div align="center">
   <a href="https://github.com/ALARP-Solutions/Chocolatey-Intune">
-    <img src="Citrix-Workspace/logo.png" alt="Logo" width="80" height="80">
+    <img src="/Citrix-Workspace/logo.png" alt="Logo" width="80" height="80">
   </a>
   <h1>Chocolatey Intune - Citrix Workspace</h1>
 </div>
 
-## Configuring VSCode
+## Configuring Citrix Workspace
 
 ### App Information
 | Field | Data |
