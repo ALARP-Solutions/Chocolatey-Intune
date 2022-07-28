@@ -49,12 +49,12 @@ Still having trouble or think more details could be provided? Please [raise a ne
     <tr>
       <td><a href="/Adobe%20Reader%20DC/README.md"><img src="/Adobe%20Reader%20DC/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="/Adobe%20Reader%20DC/README.md">Adobe Reader DC</a></td>
-      <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+      <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
     <tr>
       <td><a href="/Chocolatey/README.md"><img src="/Chocolatey/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="/Chocolatey/README.md">Chocolatey</a></td>
-      <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+      <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
     <tr>
       <td><a href="/Citrix-Workspace/README.md"><img src="/Citrix-Workspace/logo.png" alt="Logo" width="80" height="80"></a></td>
@@ -64,7 +64,7 @@ Still having trouble or think more details could be provided? Please [raise a ne
     <tr>
       <td><a href="/Git/README.md"><img src="/Git/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="/git/README.md">git</a></td>
-      <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
+      <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
     <tr>
       <td><a href="/Obsidian/README.md"><img src="/Obsidian/logo.png" alt="Logo" width="80" height="80"></a></td>
@@ -74,12 +74,12 @@ Still having trouble or think more details could be provided? Please [raise a ne
     <tr>
       <td><a href="/VSCode/README.md"><img src="/VSCode/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="/VSCode/README.md">VSCode</a></td>
-      <td><img src="https://img.shields.io/badge/-Working-green"></td>
+      <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
     <tr>
       <td><a href="/Zoom/README.md"><img src="/Zoom/logo.png" alt="Logo" width="80" height="80"></a></td>
       <td><a href="/Zoom/README.md">Zoom</a></td>
-      <td><img src="https://img.shields.io/badge/-Working-green"></td>
+      <td><img src="https://img.shields.io/badge/-Not%20Ready-red"></td>
     </tr>
   </table>
 </div>
