@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png" alt="Logo" width="80" height="80">
+  <img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/logo.png" alt="Logo" width="80" height="80">
   <h1>Chocolatey Intune - 1Password</h1>
 </div>
 
@@ -14,7 +14,7 @@
 | Information URL | TBA |
 | Privacy URL | TBA |
 | Category | Utilities & Tools |
-| Logo | [logo.png](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png) |
+| Logo | [logo.png](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/logo.png) |
 
 ### Program
 
@@ -40,7 +40,7 @@
 | Field | Data |
 | --- | --- |
 | Rules Format | Use a custom detection script |
-| Script | [detect.ps1](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/detect.ps1) |
+| Script | [detect.ps1](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/1Password/detect.ps1) |
 | Run script as 32-bit process on 64-bit clients | No |
 | Enforce script signature check and run script silently | No |
 
