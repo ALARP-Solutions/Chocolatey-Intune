@@ -46,43 +46,12 @@ Still having trouble or think better detail could be provided? Please [raise a n
   <tr>
       <td width="100px"><b>Icon</b></td>
       <td width="15%"><b>App</b></td>
-      <td width="auto"><b>Description</b></td>
+      <td width="auto"><b>Status</b></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature"><img src="https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
-    </td>
-    <td><a href="https://github.com/ALARP-Solutions/Win32-DefaultEmailSignature">Default Email Signature</a></td>
-    <td>
-      Installs a default, company branded email signature to Microsoft Outlook for Intune end users.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus"><img src="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
-    </td>
-    <td><a href="https://github.com/ALARP-Solutions/Win32-LogiOptionsPlus">Logi Options+</a></td>
-    <td>
-      Logi Options+ is a next-gen app that lets you manage and customize your supported mice and keyboards —so they all seamlessly work towards your goals. Combining the best features of Options with a brand new easy-to-use interface, Options+ is designed to transform your daily tasks.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ALARP-Solutions/Win32-Obsidian"><img src="https://github.com/ALARP-Solutions/Win32-Obsidian/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
-    </td>
-    <td> <a href="https://github.com/ALARP-Solutions/Win32-Obsidian">Obsidian</a> </td>
-    <td>
-      Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ALARP-Solutions/Win32-VSCode"><img src="https://github.com/ALARP-Solutions/Win32-VSCode/blob/main/Icon.png" alt="Logo" width="80" height="80"></a>
-    </td>
-    <td> <a href="https://github.com/ALARP-Solutions/Win32-VSCode">VS Code</a> </td>
-    <td>
-      Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
-    </td>
+    <td><a href="1Password/Readme.md"><img src="1Password/Logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="1Password/Readme.md">1Password</a></td>
+    <td></td>
   </tr>
 </table>
 
