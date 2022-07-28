@@ -40,7 +40,7 @@ Still having trouble or think more details could be provided? Please [raise a ne
 <table width="100%">
   <tr>
     <td width="100px"><b>Icon</b></td>
-    <td width="90%"><b>App</b></td>
+    <td width="150px"><b>App</b></td>
     <td width="auto"><b>Status</b></td>
   </tr>
   <tr>

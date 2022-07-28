@@ -1,6 +1,6 @@
 $package = "citrix-workspace"
 
-$IntuneWinAppUtil_Path = (get-item $PSScriptRoot ).parent.FullName +  "\IntuneWinAppUtil.exe"
+$IntuneWinAppUtil_Path = (get-item $PSScriptRoot ).parent.FullName +  "\Microsoft-Win32-Content-Prep-Tool\IntuneWinAppUtil.exe"
 
 Remove-Item ".\install.intunewin" -Force -ErrorAction Ignore
 Remove-Item ".\$package.intunewin" -Force -ErrorAction Ignore

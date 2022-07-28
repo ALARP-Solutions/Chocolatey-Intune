@@ -1,6 +1,6 @@
 $package = "obsidian"
 
-$IntuneWinAppUtil_Path = (get-item $PSScriptRoot ).parent.FullName +  "\IntuneWinAppUtil.exe"
+$IntuneWinAppUtil_Path = (get-item $PSScriptRoot ).parent.FullName +  "\Microsoft-Win32-Content-Prep-Tool\IntuneWinAppUtil.exe"
 
 Remove-Item ".\install.intunewin" -Force -ErrorAction Ignore
 
