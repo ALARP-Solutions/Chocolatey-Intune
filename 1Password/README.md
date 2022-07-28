@@ -8,11 +8,11 @@
 ### App Information
 | Field | Data |
 | --- | --- |
-| Name | Visual Studio Code |
-| Description | Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity). |
+| Name | 1Password |
+| Description | TBA |
 | Publisher | Microsoft |
-| Information URL | https://code.visualstudio.com/docs |
-| Privacy URL | https://privacy.microsoft.com/privacystatement |
+| Information URL | TBA |
+| Privacy URL | TBA |
 | Category | Utilities & Tools |
 | Logo | [logo.png](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png) |
 
