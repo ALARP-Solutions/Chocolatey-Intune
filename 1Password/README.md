@@ -1,8 +1,6 @@
 <div align="center">
-  <a href="https://github.com/ALARP-Solutions/Chocolatey-Intune">
-    <img src="VSCode/logo.png" alt="Logo" width="80" height="80">
-  </a>
-  <h1>Chocolatey Intune - Visual Studio Code</h1>
+  <img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png" alt="Logo" width="80" height="80">
+  <h1>Chocolatey Intune - 1Password</h1>
 </div>
 
 ## Configuring VSCode
@@ -16,7 +14,7 @@
 | Information URL | https://code.visualstudio.com/docs |
 | Privacy URL | https://privacy.microsoft.com/privacystatement |
 | Category | Utilities & Tools |
-| Logo | See Icon.png |
+| Logo | [logo.png](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/logo.png) |
 
 ### Program
 
@@ -42,13 +40,12 @@
 | Field | Data |
 | --- | --- |
 | Rules Format | Use a custom detection script |
-| Script | Detection is done using [detect.ps1](VSCode/detect.ps1) |
+| Script | [detect.ps1](https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/VSCode/detect.ps1) |
 | Run script as 32-bit process on 64-bit clients | No |
 | Enforce script signature check and run script silently | No |
 
-
 ### Dependencies
-No dependencies.
+- Chocolatey
 
 ### Supersedence
 Maybe set to supersede previous versions at you leisure.

@@ -64,7 +64,7 @@ Still having trouble or think more details could be provided? Please [raise a ne
     <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/git"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/git/logo.png" alt="Logo" width="80" height="80"></a></td>
+    <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/Git"><img src="https://github.com/ALARP-Solutions/Chocolatey-Intune/blob/master/Git/logo.png" alt="Logo" width="80" height="80"></a></td>
     <td><a href="https://github.com/ALARP-Solutions/Chocolatey-Intune/tree/master/git">git</a></td>
     <td><img src="https://img.shields.io/badge/-Under%20Development-orange"></td>
   </tr>
