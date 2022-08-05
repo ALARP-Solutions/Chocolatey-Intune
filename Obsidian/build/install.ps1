@@ -1,9 +1,9 @@
 $localprograms = choco list --localonly
-if ($localprograms -like "*citrix-workspace*")
+if ($localprograms -like "*obsidian*")
 {
-    choco upgrade citrix-workspace -y
+    choco upgrade obsidian -y
 }
 Else
 {
-    choco install citrix-workspace -y
+    choco install obsidian -y
 }
