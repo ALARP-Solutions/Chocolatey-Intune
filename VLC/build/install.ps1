@@ -12,7 +12,6 @@ if (Test-Path "$dest\VideoLAN\VLC media player.lnk") {
     Remove-Item -LiteralPath "$dest\VideoLAN" -Force -Recurse
 }
 
-
 # Remove Desktop Item 
 $SCPath = "C:\Users\Public\Desktop\VLC media player.lnk"
 if (Test-Path $SCPath) {
