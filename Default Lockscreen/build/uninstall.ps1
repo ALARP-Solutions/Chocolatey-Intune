@@ -1,12 +1,21 @@
-$directory = "$Env:ProgramData\ALARP Solutions"
+$directory = "$Env:ProgramData\ALARP Solutions\DefaultLockscreen"
 
 Remove-Item "$directory\AS_Lockscreen*.jpg" -ErrorAction SilentlyContinue
 Write-Output "Image File/s Deleted"
+
+Remove-Item "$directory\*.cfg" -ErrorAction SilentlyContinue
+Write-Output "Configuration File Deleted"
 
 
 if (!(Test-Path -Path "$directory\*")) {
     Remove-Item -Path $directory -force -ErrorAction SilentlyContinue
     Write-Output "MDM Folder Deleted"
+}
+
+$parentdir = Split-Path -parent $directory
+if (!(Test-Path -Path "$parentdir\*")) {
+    Remove-Item -Path $parentdir -force -ErrorAction SilentlyContinue
+    Write-Output "ALARP Solutions Folder Deleted"
 }
 
 $regkey = @(

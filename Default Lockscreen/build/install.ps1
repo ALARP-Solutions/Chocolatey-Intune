@@ -1,4 +1,6 @@
-$directory = "$Env:ProgramData\ALARP Solutions"
+$DLVersion = "1.3"
+
+$directory = "$Env:ProgramData\ALARP Solutions\DefaultLockscreen"
 
 ## Shared Device Test
 $devicename = $env:computername
@@ -44,6 +46,10 @@ try {
 
         Set-ItemProperty -path $regkey[$i] -name $regkey[$i+1] -value $regkey[$i+2] -type $regkey[$i+3] -force | Out-Null
     }
+
+    ## Create config file
+    $content = "Version: $DLVersion"
+    $content | Out-File -FilePath "$directory\DefaultLockscreen.cfg"
     exit 0
 }
 catch {
