@@ -31,7 +31,7 @@ Function Test-RegistryValue {
     }
 }
 
-$directory = "C:\MDM"
+$directory = "$Env:ProgramData\ALARP Solutions"
 $filename = "AS_Lockscreen"
 
 $path = "HKLM:\\SOFTWARE\Policies\Microsoft\Windows\Personalization"

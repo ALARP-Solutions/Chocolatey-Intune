@@ -1,7 +1,5 @@
-$directory = "C:\MDM"
+$directory = "$Env:ProgramData\ALARP Solutions"
 
-#Remove-Item -Path "$directory\$filename" -force -ErrorAction SilentlyContinue
-#Get-ChildItem -Path "$directory\*.jpg" | ForEach-Object { Remove-Item -Path $_.FullName }
 Remove-Item "$directory\AS_Lockscreen*.jpg" -ErrorAction SilentlyContinue
 Write-Output "Image File/s Deleted"
 
